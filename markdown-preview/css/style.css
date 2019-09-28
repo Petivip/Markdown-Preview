@@ -1,30 +1,30 @@
 body {
-  background-color: #F06191;
+  background-color:#9340a3;
 }
-
-#title {
+#title{
   font-size: 50px;
   font-family: Georgia, serif;
 }
 
-h1 {
+h1{
   font-family: cursive;
 }
 
 .Markdown-text {
+ 
   width: 100%;
   height: 650px;
   margin-bottom: 10px;
   border-radius: 10px;
 }
 
-hr {
-  color: black;
-}
 
+hr {
+  color:black;
+}
 .container-class {
   border-radius: 10px;
-  background-color: #F2CFDB;
+  background-color:#F2CFDB;
   border: 2px solid #4D0808;
   height: 800px;
 }
